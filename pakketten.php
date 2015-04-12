@@ -30,7 +30,7 @@
                         <h2>Pakketten</h2>
                     </div>
                     <div class="col-md-4">
-                        <a class="list-group-item collapsebtnstyle" data-toggle="collapse" data-target="#pakket1" data-parent="#menu"><span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> LESPAKKET 1**</a>
+                        <a class="list-group-item collapsebtnstyle" data-toggle="collapse" data-target="#pakket1" data-parent="#menu">LESPAKKET 1**</a>
                         <div class="list-group-item">
                             <p>Eigen verklaring <span class="pull-right">&euro;  27,80</span></p>
                         </div>

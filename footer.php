@@ -1,5 +1,5 @@
 <footer class="footer">
-	<div class="container">
+	<div class="container col-md-10 col-md-offset-1">
 		<div class="alignment">
 			<h4>Algemeen</h4>
 			<ul class="list-unstyled">
@@ -24,13 +24,6 @@
 				<li class="text-muted">tel. 06-24747462</li>
 			</ul>
 		</div>
-<!-- 		<div class="alignment">
-			<ul class="list-unstyled bottom">
-				<li class="text-muted">1441 KH Purmerend</li>
-				<li class="text-muted">Hugo de Grootstraat 13</li>
-				<li class="text-muted">tel. 06-53764997</li>
-			</ul>
-		</div> -->
 		<div class="alignment">
 			<div class="middle" style="width: 160px; margin-right: auto; margin-left: auto;">
 				<a href="https://www.facebook.com/automatisme.nl"><img src="img/fbicon.png" style="width:50px; height:50px;"></img></a>
