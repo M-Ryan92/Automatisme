@@ -1,5 +1,5 @@
 function setFooterHeight(){
-	var heigth = document.body.children[2].clientHeight + 40;
+	var heigth = document.getElementsByClassName('footer')[0].clientHeight + 60;
 	document.body.style.marginBottom = heigth+"px";
 };
 
