@@ -3,21 +3,7 @@
         <title>Rijschool Automatisme - Slagings percentage</title>
         <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="css/base.css">
-        <style>
-            .collapsebtnstyle {
-                background: rgb(205, 220, 234);
-                cursor: pointer;
-            }
-            a.list-group-item:focus {
-                background: rgb(205, 220, 234);
-            }
-            a.list-group-item {
-                border: 1px solid #BBB;
-            }
-            p.list-group-item:first-child, p.list-group-item:last-child{
-                border-radius: 0;
-            }
-        </style>
+        <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <?php include 'header.php'; ?>

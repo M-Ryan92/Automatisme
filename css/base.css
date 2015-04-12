@@ -1,125 +1,129 @@
+body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
 .navbar {
-	background-color: #2BA4DA;
-	border-color: #207AA1;
-	border-radius: 0;
+    background-color: #2BA4DA;
+    border-color: #207AA1;
+    border-radius: 0;
 }
 .navbar-nav> li > a{
-	color: rgb(221, 245, 255);
-	font-size: 17px;
-	margin: 0 -5px;
+    color: rgb(221, 245, 255);
+    font-size: 17px;
+    margin: 0 -5px;
 }
 .nav>li>a:hover, .nav>li>a:focus {
-	text-decoration: none;
-	background-color: #208EB6;
-	}
+    text-decoration: none;
+    background-color: #208EB6;
+}
 .navbar-logo {
-	color: rgb(221, 245, 255);
-	/*height: 150px;*/
-	width: 550px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: -10px;
+    color: rgb(221, 245, 255);
+    /*height: 150px;*/
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
 }
 .navbar-logo>.l-logo {
-	width: 150px;
-	height: 150px;
+    width: 150px;
+    height: 150px;
 }
 .navbar-logo>.logo-tekst {
-	font-size: 60px;
-	padding-top: 26px;
-	margin-left: -50px;
+    font-size: 60px;
+    padding-top: 26px;
+    margin-left: -50px;
 }
 .navbar-logo>.logo-subtekst {
-	font-size: 20px;
-	margin-top: -30px;
-	margin-left: -70px;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: -70px;
 }
 .navbar-social-icons {
-	width: 185px;
-	height: 150px;
+    width: 185px;
+    height: 150px;
 }
 .navbar-social-icons > a > img {
-	width: 85px;
-	height: 85px;
-	margin-top: 50px;
-	margin-right: 5px;
+    width: 85px;
+    height: 85px;
+    margin-top: 50px;
+    margin-right: 5px;
 }
 .footer {
-	position: absolute;
-	bottom: 0;
-	display: block;
-	width: 100%;
-	padding-bottom: 10px;
-	background-color: #2BA4DA;
-	border-color: #207AA1;
-	border-radius: 0;
-	color: rgb(221, 245, 255);
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    padding-bottom: 10px;
+    background-color: #2BA4DA;
+    border-color: #207AA1;
+    border-radius: 0;
+    color: rgb(221, 245, 255);
 }
 .footer > .container > .alignment > ul > .text-muted {
-	color: rgb(185, 204, 211);
+    color: rgb(185, 204, 211);
 }
 .footer > .container > .alignment > ul > .text-muted > a {
-	color: #4D5E6E;
+    color: #4D5E6E;
 }
 .footer .footerpower {
-	text-align: center;
+    text-align: center;
 }
 .footer .footerpower > a{
-	color: #4D5E6E;
+    color: #4D5E6E;
 }
 .alignment {
-	width: 200px;
-	display: inline-block;
-	text-align: start;
-	padding: 7px 10px 0px 10px;
-	height: 150px;
-	overflow: hidden;
-	margin: 10px 20px -10px 20px;
-	position: relative;
+    width: 200px;
+    display: inline-block;
+    text-align: start;
+    padding: 7px 10px 0px 10px;
+    height: 150px;
+    overflow: hidden;
+    margin: 10px 20px -10px 20px;
+    position: relative;
 }
 .alignment > h4{
-	border-bottom: 1px solid #CDCDCD;
-	text-align: center;
+    border-bottom: 1px solid #CDCDCD;
+    text-align: center;
 }
 .alignment > .bottom {
-	position: absolute;
-	bottom: 15px;
+    position: absolute;
+    bottom: 15px;
 }
 .alignment > .middle {
-	position: absolute;
-	bottom: 30px;
+    position: absolute;
+    bottom: 30px;
 }
 
 html {
-	position: relative;
+    position: relative;
 }
 body {
-	/* background-color: #DEECF2; */
+    /* background-color: #DEECF2; */
 }
 .container {
-	padding-right: 0;
-	padding-left: 0;
+    padding-right: 0;
+    padding-left: 0;
 }
 .row {
-  margin: 30px -50px;
+    margin: 30px -50px;
 }
 .jumbotron {
-	background-color: #C6E3EC;
+    background-color: #C6E3EC;
 }
 .tumb-center {
-	text-align: center;
-	display: table-cell;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%,-50%);
-	-webkit-transform: translate(-50%,-50%);
-	-moz-transform: translate(-50%,-50%);
-	-ms-transform: translate(-50%,-50%);
+    text-align: center;
+    display: table-cell;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
 }
 .thumbnail > div > p {
-	margin: 0;
+    margin: 0;
 }
 .minheight {
-	min-height: 170px;
+    min-height: 170px;
 }
