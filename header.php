@@ -6,7 +6,7 @@
 		</div> -->
 		<div>
 			<div class="navbar-logo">
-				<img class="l-logo pull-left" src="img/Llogo.png" style="width: 150px; height: 150px;">
+				<img class="l-logo pull-left" src="img/Llogo.png" style="width: 125px; height: 125px;">
 				<p class="logo-tekst pull-left">Automatisme</p>
 				<p class="logo-subtekst pull-left">De rijschool uit Purmerend en Amsterdam</p>
 			</div>

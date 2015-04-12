@@ -37,6 +37,41 @@
 
  		<div class="container">
 			<div class="row">
+				<div class="col-md-12">
+
+ 					<div id="carousel1" class="carousel slide jumbotron col-md-7 center" data-ride="carousel">
+
+					  <ol class="carousel-indicators">
+					      <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+					      <li data-target="#carousel1" data-slide-to="1"></li>
+					  </ol>
+
+					  <div class="carousel-inner">
+								<div class="item active">
+									<div class="center">
+										<img src="img/38ster.png" width="450px" />
+									</div>
+								</div>
+					      <div class="item">
+					      	<div class="center">
+										<h2>Slide 2</h2>
+										<div class="carousel-caption">
+											<h3>Second slide label</h3>
+											<p>Aliquam sit amet gravida nibh, facilisis gravida…</p>
+										</div>
+					      	</div>
+					      </div>
+					  </div>
+					</div>
+
+				</div>
+ 				<div class="col-md-12">
+					<div class="col-md-7 center">
+						<img src="img/autos.png" width="560px"></img>
+						<h2>Welkom op de web-site van rijschool Automatisme</h2>
+						<p>Je rijbewijs is een investering waarvan je je hele leven lang profijt hebt. Het maakt je onafhankelijk en je kunt op ieder gewenst moment je verplaatsen zonder dat je bijvoorbeeld rekening hoeft te houden met vertrektijden van tram, bus, metro of trein.<a href="#">Lees meer</a>.</p>
+					</div>
+				</div>
 <!--
 				<div id="carousel1" class="carousel slide jumbotron col-md-7" data-ride="carousel">
 

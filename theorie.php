@@ -22,13 +22,17 @@
 						</p>
 					</div>
 					<div class="col-md-5">
-						<a href="http://www.theorie-leren.nl" class="col-md-5 thumbnail" style="min-height:137px;">
-							<img src="img/VEKABEST.jpg" class="col-md-12" />
-							<p class="col-md-12 text-center">Theorie leren</p>
+						<a href="http://www.theorie-leren.nl" class="col-md-5 thumbnail minheight">
+							<div class="col-md-12 tumb-center">
+								<img src="img/VEKABEST.jpg" class="col-md-12" />
+								<p class="col-md-12 text-center">Theorie leren</p>
+							</div>
 						</a>
-						<a href="https://mijn.cbr.nl/nl/Authentication/Login?ReturnUrl=%2fnl" class="col-md-5 thumbnail" style="margin-left:5px; min-height:137px;">
-							<img src="img/CBR.jpg" class="col-md-12" />
-							<p class="col-md-12 text-center">Theorie reserveren</p>
+						<a href="https://mijn.cbr.nl/nl/Authentication/Login?ReturnUrl=%2fnl" class="col-md-5 thumbnail minheight" style="margin-left:5px;">
+							<div class="col-md-12 tumb-center">
+								<img src="img/CBR.jpg" class="col-md-12" />
+								<p class="col-md-12 text-center">Theorie reserveren</p>
+							</div>
 						</a>
 					</div>
 				</div>

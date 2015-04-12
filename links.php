@@ -3,22 +3,6 @@
 		<title>Rijschool Automatisme - Links</title>
 		<link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" type="text/css" href="css/base.css">
-		<style type="text/css">
-			 .minheight {
-			 	min-height: 170px;
-			 }
-			 .tumb-center {
-				text-align: center;
-				display: table-cell;
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				transform: translate(-50%,-50%);
-				-webkit-transform: translate(-50%,-50%);
-				-moz-transform: translate(-50%,-50%);
-				-ms-transform: translate(-50%,-50%);
-			 }
-		</style>
 	</head>
 	<body>
 		<?php include 'header.php';?>
