@@ -1,4 +1,4 @@
-body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
+body, p, li, div, h1, h2, h3, h4, h5, h6, a {
     font-family: 'Open Sans', sans-serif !important;
 }
 
@@ -8,7 +8,7 @@ body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
     border-radius: 0;
 }
 .navbar-nav> li > a{
-    color: rgb(221, 245, 255);
+    color: rgb(255, 255, 255);
     font-size: 17px;
     margin: 0 -5px;
 }
@@ -59,10 +59,10 @@ body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
     border-radius: 0;
     color: rgb(221, 245, 255);
 }
-.footer > .container > .alignment > ul > .text-muted {
+.footer > .container > .col-md-offset-1 > .alignment > ul > .text-muted {
     color: rgb(185, 204, 211);
 }
-.footer > .container > .alignment > ul > .text-muted > a {
+.footer > .container > .col-md-offset-1 > .alignment > ul > .text-muted > a {
     color: #4D5E6E;
 }
 .footer .footerpower {
@@ -74,7 +74,7 @@ body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
 .alignment {
     width: 200px;
     display: inline-block;
-    text-align: start;
+    text-align: center;
     padding: 7px 10px 0px 10px;
     height: 150px;
     overflow: hidden;
@@ -96,9 +96,6 @@ body, p, span, li, div, h1, h2, h3, h4, h5, h6, a {
 
 html {
     position: relative;
-}
-body {
-    /* background-color: #DEECF2; */
 }
 .container {
     padding-right: 0;
@@ -126,4 +123,7 @@ body {
 }
 .minheight {
     min-height: 170px;
+}
+.footercontent{
+    margin: 0 auto;
 }
