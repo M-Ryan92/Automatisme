@@ -27,6 +27,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-12">
 						<h2>In 1 keer slagen?</h2>
+						<hr>
 					</div>
 					<div class="col-md-9">
 						<p>Iedereen wil natuurlijk met zo min mogelijk lessen voor het rijbewijs slagen, en dan ook nog het liefst in 1 keer. De kans dat je in 1 keer slaagt is afhankelijk van 2 factoren:</p>

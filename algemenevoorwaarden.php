@@ -11,6 +11,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<h2>Algemene voorwaarden rijschool Automatisme:</h2>
+					<hr>
 					<p>
 						De genoten lessen dienen direct voldaan te worden aan de rij-instructeur.
 						De rij-instructeur behoudt zich het recht voor de rijles(sen) voortijdig te be&euml;indigen.
@@ -27,7 +28,9 @@
 						Bij restitutie wordt uitgegaan van de geldende tarief bij aanschaf van het lespakket of strippenkaart.
 						Rijschool Automatisme maakt gebruik van zelfstandige rij-instructeurs deze zijn niet aansprakelijk voor elkaars bedrijfsvoering.
 					</p>
+					<br><br>
 					<h2>voorwaarden 50/50 deal:</h2>
+					<hr>
 					<p>
 						Indien de leerling niet reageert op aanwijzingen van de rij-instructeur, dan heeft deze het recht na overleg de 50/50 deal te doen vervallen.
 						Cursist dient eerst een tussen tijdse toets bij het CBR te doen.

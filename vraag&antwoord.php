@@ -9,7 +9,7 @@
 				cursor: pointer;
 			}
 			a.list-group-item:focus {
-				background: rgb(205, 220, 234);
+				background: #DEECF2; /*rgb(205, 220, 234)*/
 			}
 			a.list-group-item {
 				border: 1px solid #BBB;
@@ -26,6 +26,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<h2>Veel Gestelde Vragen</h2>
+					<hr>
 				</div>
 			</div>
 			<div class="row">

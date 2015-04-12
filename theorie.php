@@ -12,6 +12,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="col-md-12">
 						<h2>De theorie</h2>
+						<hr>
 					</div>
 					<div class="col-md-7">
 						<p>
